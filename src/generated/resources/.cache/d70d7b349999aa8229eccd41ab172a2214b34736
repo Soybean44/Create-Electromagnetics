@@ -1,0 +1,4 @@
+// 1.21.1	2025-04-16T23:17:52.679824707	Block States: create_electromagnetics
+e6c79f65fdc2d972072182b652e12e76871f5cbd assets/create_electromagnetics/blockstates/lead_ore.json
+65413d91b88e19847c1a4dca51eab1de2d524ae0 assets/create_electromagnetics/models/block/lead_ore.json
+ca03ca959c1cf82d2c750a9e7091046c9c856907 assets/create_electromagnetics/models/item/lead_ore.json

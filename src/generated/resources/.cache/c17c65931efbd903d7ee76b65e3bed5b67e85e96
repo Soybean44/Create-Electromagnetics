@@ -1,0 +1,4 @@
+// 1.21.1	2025-04-16T23:17:52.679462534	Create Electromagnetics' Generated Registry Entries
+5e2628296888c12a2f543629a944fbb5f50d1585 data/create_electromagnetics/neoforge/biome_modifier/lead_ore.json
+0369ff80173c978ca7bfaa326ab16e6555d37d05 data/create_electromagnetics/worldgen/configured_feature/lead_ore.json
+373038ecd5723a002394c8f729bcaeaa04ef6d4c data/create_electromagnetics/worldgen/placed_feature/lead_ore_placed.json
